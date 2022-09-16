@@ -6,4 +6,10 @@ Programming languages:
 4.Java
 5.C#
 
+Python datatypes:
+
+1.array
+2.integer
+3.float
+
 THANKYOU
