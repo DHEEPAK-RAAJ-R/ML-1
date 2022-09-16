@@ -4,7 +4,6 @@ Programming languages:
 2.C++
 3.Python
 4.Java
-5.C#
 
 Python datatypes:
 
